@@ -2,20 +2,20 @@
 
 ### Description
 
-In week four we've learned about a few different classifiers. In week five we'll learn about webscraping, APIs, and Natural Language Processing (NLP). This project will put those skills to the test.
+In week four we learned about a few different classifiers. In week five we're learning about webscraping, APIs, and Natural Language Processing (NLP). This project will put those skills to the test.
 
 For project 3, your goal is two-fold:
-1. Using [Pushshift's](https://github.com/pushshift/api) API, you'll collect posts from two subreddits of your choosing.
+1. Using [PRAW](https://praw.readthedocs.io/en/stable/index.html), you'll collect posts from two subreddits of your choosing.
 2. You'll then use NLP to train a classifier on which subreddit a given post came from. This is a binary classification problem.
 
 
 #### About the API
 
-Pushshift's API is fairly straightforward. For example, if I want the posts from [`/r/boardgames`](https://www.reddit.com/r/boardgames), all I have to do is use the following url: https://api.pushshift.io/reddit/search/submission?subreddit=boardgames
+For this project, you will be using [PRAW](https://praw.readthedocs.io/en/stable/index.html) to collect posts from two different subreddits. 
 
-To help you get started, we have a primer video on how to use the API: https://youtu.be/AcrjEWsMi_E
+To help you get started, we have a [notebook](./Reddit-PRAW-tutorial) detailing the process of creating an app and obtaining your API credentials.
 
-**NOTE:** Pushshift now limits you to 100 posts per request (no longer the 500 in the screencast).
+Note: Rather than working in this template notebook, make a brand new "scraping" notebook (or script), with your own unique work and comments, so you can use this project in a portfolio!
 
 ---
 
@@ -36,7 +36,7 @@ To help you get started, we have a primer video on how to use the API: https://y
 - Code must be in at least one clearly commented Jupyter Notebook.
 - A readme/executive summary in markdown.
 - You must submit your slide deck as a PDF.
-- Materials must be submitted by **10:00 AM (EST) on Tuesday, June 20th**.
+- Materials must be submitted by **10:00 AM (EST) on Friday, Oct 20th**.
 
 ---
 

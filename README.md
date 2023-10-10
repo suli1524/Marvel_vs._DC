@@ -21,7 +21,7 @@ Note: Rather than working in this template notebook, make a brand new "scraping"
 
 ### Requirements
 
-- Gather and prepare your data using the `requests` library.
+- Gather and prepare your data using PRAW.
 - **Create and compare two models**. Any two classifiers at least of your choosing: random forest, logistic regression, KNN, SVM, etc.
 - A Jupyter Notebook with your analysis for a peer audience of data scientists.
 - An executive summary of your results.

@@ -13,7 +13,7 @@ For project 3, your goal is two-fold:
 
 For this project, you will be using [PRAW](https://praw.readthedocs.io/en/stable/index.html) to collect posts from two different subreddits. 
 
-To help you get started, we have a [notebook](./Reddit-PRAW-tutorial) detailing the process of creating an app and obtaining your API credentials.
+To help you get started, we have a [notebook](./Reddit-PRAW-tutorial.ipynb) detailing the process of creating an app and obtaining your API credentials.
 
 Note: Rather than working in this template notebook, make a brand new "scraping" notebook (or script), with your own unique work and comments, so you can use this project in a portfolio!
 
